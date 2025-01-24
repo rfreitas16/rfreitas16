@@ -139,15 +139,6 @@ Olá, seja bem-vindo! Me chamo Rafael, tenho 33 anos, sou natural do Rio Grande 
 
 <img 
     align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-
-<img 
-    align="left" 
     alt="Mysql" 
     title="Mysql"
     width="30px" 
@@ -188,6 +179,3 @@ Olá, seja bem-vindo! Me chamo Rafael, tenho 33 anos, sou natural do Rio Grande 
 
 </p>
 
-<br/><br/><br/><br/><br/><br/><br/><br/>
-
----
