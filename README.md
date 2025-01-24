@@ -5,14 +5,14 @@
 Olá, seja bem-vindo! Me chamo Rafael, tenho 33 anos, sou natural do Rio Grande do Sul. Sou Dev. FullStack e Designer Gráfico. Tenho conhecimento na área Ti a pelo menos 8 anos e designer a 6 anos. Estou aqui para abrir portas futuras com visibilidade dentro do mundo da tecnologia e sua evolução. Seja bem vindo ao meu GitHub e se quiser ver alguns dos meus trabalhos ou entrar em contato você me encontra nos ícones das redes sociais logo a seguir ou no painel do avatar!
 
 <p align="left">
-    <a href="https://www.youtube.com/@rfreitas16?sub_confirmation=1">
+    <a href="https://www.youtube.com/UCJKXg24LUngbqzNbKs-xLRQ?sub_confirmation=1">
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCJKXg24LUngbqzNbKs-xLRQ?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
-    <a href="https://www.youtube.com/@rfreitas16">
+    <a href="https://www.youtube.com/UCJKXg24LUngbqzNbKs-xLRQ">
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
