@@ -2,7 +2,7 @@
 
 **`()=>{} Desenvolvedor FullStack </> `**
 
-Olá, seja bem-vindo! Me chamo Rafael, tenho 33 anos, sou natural do Rio Grande do Sul. Sou Dev. FullStack e Designer Gráfico. Tenho conhecimento na área Ti a pelo menos 8 anos e designer a 6 anos. Estou aqui para abrir portas futuras com visibilidade dentro do mundo da tecnologia e sua evolução. Seja bem vindo ao meu GitHub e se quiser ver alguns dos meus trabalhos ou entrar em contato você me encontra nos ícones das redes sociais logo a seguir ou no painel do avatar!
+Olá, seja bem-vindo! Me chamo Rafael, tenho 33 anos, sou natural do Rio Grande do Sul. Sou Dev. FullStack e Designer Gráfico. Tenho conhecimento na área Ti a pelo menos 8 anos e designer a 6 anos. Estou aqui para abrir portas futuras com visibilidade dentro do mundo da tecnologia e sua evolução. Seja bem vindo ao meu GitHub e se quiser ver alguns dos meus trabalhos ou entrar em contato você me encontrar nos ícones das redes sociais logo a seguir ou no painel do avatar!
 
 
 ---
